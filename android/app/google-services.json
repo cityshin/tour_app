@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716086321531",
+    "project_id": "modutour-85f4e",
+    "storage_bucket": "modutour-85f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716086321531:android:6e5683b4d725e094981dde",
+        "android_client_info": {
+          "package_name": "com.easypub.modu_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716086321531-surtfd6p6mthoqt80iencldm3ps3qf47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOtjOfWtrlLF5S0IvFeOFsJKfgtTLS6hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716086321531-surtfd6p6mthoqt80iencldm3ps3qf47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
